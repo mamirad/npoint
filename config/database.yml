@@ -9,7 +9,7 @@ production:
   <<: *default
   username: deploy
   password: India4@)
-  database: npoint_development
+  database: npoint_production
 
 
 development:
